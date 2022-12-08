@@ -1,5 +1,4 @@
-/* Zadatak 1:
-Napraviti klasu Product koja ima sledeca polja:
+/* Napraviti klasu Product koja ima sledeca polja:
 - name, inicijalno prazan string
 - price, inicijalno 0
 - stockQuantity, inicijalno nula
